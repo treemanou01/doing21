@@ -1,3 +1,4 @@
-{id:01
-,date:"2015/07/02"
-}
+[
+{id:"01" ,date:"2015/07/01",doing:"start git hub"},
+{id:"02" ,date:"2015/07/02",doing:"include jquery"}
+]
